@@ -14,7 +14,7 @@ QA Automation Engineer with a DevOps toolset. I build test automation with Pytho
 
 ## Toolbox
 
-**Testing:** Python · pytest · Playwright · Allure · Page Object Model
-**CI/CD:** GitHub Actions · Docker · GHCR / Docker Hub
-**Kubernetes:** K3s · Helm · Argo CD · Traefik · Prometheus
-**Infrastructure:** Terraform (AWS) · Ansible · Linux
+- **Testing:** Python · pytest · Playwright · Allure · Page Object Model
+- **CI/CD:** GitHub Actions · Docker · GHCR / Docker Hub
+- **Kubernetes:** K3s · Helm · Argo CD · Traefik · Prometheus
+- **Infrastructure:** Terraform (AWS) · Ansible · Linux

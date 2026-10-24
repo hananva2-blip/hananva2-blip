@@ -6,6 +6,7 @@ QA Automation Engineer with a DevOps toolset. I build test automation with Pytho
 
 | Project | What it shows |
 |---|---|
+| [**qa-portfolio**](https://github.com/hananva2-blip/qa-portfolio) | API, UI (Playwright) and LLM tests with pytest, running in Docker on GitHub Actions with a [live Allure report](https://hananva2-blip.github.io/qa-portfolio/) |
 | [**skywatch**](https://github.com/hananva2-blip/skywatch) | End-to-end distributed app: Flask + RabbitMQ worker, pytest with mocks, GitHub Actions (lint → test → build → GitOps tag bump), Terraform on AWS, Ansible, K3s, Helm, Prometheus |
 | [**notch-qa-task**](https://github.com/hananva2-blip/notch-qa-task) | Playwright + pytest suite with Page Objects, smoke/regression markers, accessibility checks, and `xfail` tests documenting real bugs found during exploration |
 | [**helm-gitops-demo**](https://github.com/hananva2-blip/helm-gitops-demo) | GitOps with Argo CD: one Helm chart, dev and prod environments driven by Git branches |

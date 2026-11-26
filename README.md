@@ -8,6 +8,7 @@ QA Automation Engineer with a DevOps toolset. I build test automation with Pytho
 
 | Project | What it shows |
 |---|---|
+| [**ai-chatbot-qa**](https://github.com/hananva2-blip/ai-chatbot-qa) | Tests for an AI support bot built on Claude: facts from a golden dataset, hallucinations, prompt injection, off-topic use, LLM-as-a-judge quality scores, latency and token cost. Docker Compose, Jenkins (Configuration as Code), nightly GitHub Actions, [live Allure report](https://hananva2-blip.github.io/ai-chatbot-qa/) |
 | [**juice-shop-automation**](https://github.com/hananva2-blip/juice-shop-automation) | UI, API and security tests for OWASP Juice Shop: Playwright Page Objects, a fresh user per test, parallel runs on Chromium and Firefox, nightly CI and Jenkins pipeline, [live Allure report](https://hananva2-blip.github.io/juice-shop-automation/) |
 | [**orders-backend-tests**](https://github.com/hananva2-blip/orders-backend-tests) | Backend tests for a FastAPI + PostgreSQL orders service: every API call checked in the database too, a concurrency test against overselling, OWASP API checks (BOLA, forged and expired JWT), schema tests and a Locust load test |
 | [**qa-portfolio**](https://github.com/hananva2-blip/qa-portfolio) | API, UI (Playwright) and LLM tests with pytest, running in Docker on GitHub Actions with a [live Allure report](https://hananva2-blip.github.io/qa-portfolio/) |
